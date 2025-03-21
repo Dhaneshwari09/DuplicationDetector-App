@@ -23,4 +23,4 @@
 ## 🔧 Setup Instructions
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Dhaneshwari09/DataDuplication-Detection_App.git
+   git clone https://github.com/Dhaneshwari09/DuplicationDetector-App.git
